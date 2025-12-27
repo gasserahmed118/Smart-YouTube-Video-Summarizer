@@ -1,0 +1,7 @@
+streamlit
+youtube-transcript-api
+transformers
+torch
+huggingface-hub
+requests
+sentencepiece
